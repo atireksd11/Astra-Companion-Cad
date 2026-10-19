@@ -17,7 +17,12 @@ The main electronics repo (KiCad PCB, firmware) lives here:
 
 ## Half Life import
 
-Upload **`hardware/bom-cad.csv`** on the Week 2 / CAD tier. Budget notes: [`hardware/BOM_CAD_SUMMARY.md`](hardware/BOM_CAD_SUMMARY.md).
+This GitHub repo is tied to **Half Life project `cmv5b3v3d0hpu01n0r4f8wibl`** (Week 2 / Tier 1). The main PCB repo is a **different** Half Life project — that split stops sync from overwriting each other.
+
+- Root **`BOM.csv`** — what Half Life mirrors (keep in sync with `hardware/bom-cad.csv`).
+- **`hardware/bom-cad.csv`** — same parts list, easier path in docs.
+
+Budget notes: [`hardware/BOM_CAD_SUMMARY.md`](hardware/BOM_CAD_SUMMARY.md).
 
 Chassis write-up: [`docs/CAD.md`](docs/CAD.md).
 
