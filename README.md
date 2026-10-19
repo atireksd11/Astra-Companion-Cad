@@ -32,4 +32,5 @@ N20 gearmotors, 43 mm wheels, motor brackets, 12 mm ball caster, SG90 servo, M3 
 
 ## CAD source
 
-Fusion / Onshape project files stay on your machine or cloud CAD account until you choose to add a `cad/` export folder here. These PNGs are what Half Life uses for visual proof of the model.
+- **Assembly STEP:** [`cad/astra-companion-chassis-assembly.step`](cad/astra-companion-chassis-assembly.step) (~6 MB, Fusion `micro_robot_assembly` export).
+- **Renders:** `docs/images/cad-*.png` for Half Life screenshots.
